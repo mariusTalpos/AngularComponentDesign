@@ -1,9 +1,9 @@
 # Vids
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+
 ## Purpose
 This project was created as an excercise in component design
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Development server
 
